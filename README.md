@@ -78,13 +78,9 @@
 	
 </ul>
 </div>
-<img src="https://giffiles.alphacoders.com/222/222060.gif">
+<img src="https://giffiles.alphacoders.com/222/222060.gif" CssStyle="text-align:center;">
 
 <br>
 
-<div style="text-align: center;">
-	<img src="https://gifs.alphacoders.com/gifs/view/222060">
-</div>
-<br>
 
 <div align='center'>
