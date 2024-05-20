@@ -82,8 +82,9 @@
 
 <br>
 
-<centre><img src="[your image path](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)"></centre> 
- 
+<div style="text-align: center;">
+	<img src="https://gifs.alphacoders.com/gifs/view/222060">
+</div>
 <br>
 
 <div align='center'>
