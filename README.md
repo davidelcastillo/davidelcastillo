@@ -81,7 +81,13 @@
 <img src="https://giffiles.alphacoders.com/222/222060.gif">
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<section>
+    <div class="container-fluid">
+        <div class="row">
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+        </div>            
+    </div>
+</section>
 <br>
 
 <div align='center'>
