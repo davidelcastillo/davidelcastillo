@@ -78,12 +78,10 @@
 	
 </ul>
 </div>
-<img src="https://images.alphacoders.com/134/1348487.png">
+<img src="[https://images.alphacoders.com/134/1348487.png](https://images.alphacoders.com/134/1348487.png)">
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
 
 <div align='center'>
