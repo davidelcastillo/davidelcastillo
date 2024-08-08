@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img aling="left" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=WELCOME+TO+XION20..&hearts;++;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+👉 **About me**
 
 <p><img align="left" src="https://media1.tenor.com/m/_L1OQ0lT-J4AAAAC/bray-wyatt-the-fiend.gif" width="180" height="160" /></p>
 
@@ -47,7 +47,7 @@
 
 -----
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
+<b>🤝 Let's Connect..!</b>
 <br>
 <div align='left'>
 
